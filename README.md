@@ -51,7 +51,7 @@ A production-grade AI research platform that automates deep research using **6 a
 ### Option 1: Docker (Recommended)
 
 ```bash
-git clone https://github.com/yourusername/multi-agent-research.git
+git clone https://github.com/Hiomio/Aether-AI.git
 cd multi-agent-research
 
 cp backend/.env.example backend/.env
