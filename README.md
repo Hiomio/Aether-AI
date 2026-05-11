@@ -2,7 +2,7 @@
 
 A production-grade AI research platform that automates deep research using **6 autonomous AI agents** — from planning and web search to summarizing and report generation — all streamed live in real time.
 
-![UI Preview](docs/preview.png)
+![UI Preview](https://github.com/Hiomio/Aether-AI/blob/main/Screenshot%20(195).png)
 
 ---
 
