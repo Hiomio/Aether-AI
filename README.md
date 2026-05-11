@@ -154,13 +154,6 @@ multi-agent-research/
 ├── docker-compose.yml        # 7-service orchestration
 └── .github/workflows/        # CI/CD pipeline
 ```
-
----
-
-## 📸 Screenshots
-
-> Landing Page · Research Workspace · Agent Workflow Panel · Reports · Documents
-
 ---
 
 ## 📄 License
